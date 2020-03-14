@@ -1,0 +1,21 @@
+a.m {
+    color: black;
+}
+a.n {
+    color: burlywood;
+}
+a.o {
+    color: rgb(243, 239, 13);
+}
+a.m:link
+{
+text-decoration: none;
+}
+a.n:link
+{
+    text-decoration:none;
+}
+a.o:link
+{
+    text-decoration:none;
+}
